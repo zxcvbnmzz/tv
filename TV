@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1,###  ۩ Bein Sport | Mena ۩  ### 
+// M3U8 By @zxcvbnm
+#EXTINF:-1group-title="Beinsport", Mena
 http://client.more-itv.com:8080/57ijhg/e46ujj/11130
-#EXTINF:-1,SPORT AR: Bein Sport 1 HD
+#EXTINF:-1 group-title="Beinsport", SPORT AR: Bein Sport 1 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11131
 #EXTINF:-1,SPORT AR: Bein Sport 1 SD
 http://client.more-itv.com:8080/57ijhg/e46ujj/114861
