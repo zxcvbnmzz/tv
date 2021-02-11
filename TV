@@ -153,35 +153,35 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/11614
 http://client.more-itv.com:8080/57ijhg/e46ujj/11647
 #EXTINF:-1,UK: Sky Tow HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/69005
-#EXTINF:-1,UK: National Geographic FHD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: National Geographic FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11615
-#EXTINF:-1,UK: National Geographic Wild FHD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: National Geographic Wild FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11616
-#EXTINF:-1,UK: Animal Planet HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Animal Planet HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11617
-#EXTINF:-1,UK: Love Nature HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Love Nature HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/74055
-#EXTINF:-1,UK: Discovery Science Channel HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Discovery Science Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11618
-#EXTINF:-1,UK: Discovery History HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Discovery History HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11619
-#EXTINF:-1,UK: Discovery Home & Health HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Discovery Home & Health HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11620
-#EXTINF:-1,UK: Discovery Turbo HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Discovery Turbo HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11621
-#EXTINF:-1,UK: Discovery Shed HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Discovery Shed HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11622
-#EXTINF:-1,UK: Discovery Channel UK HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Discovery Channel UK HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11623
-#EXTINF:-1,UK: Discovery Investigation HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Discovery Investigation HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/58613
 #EXTINF:-1,UK: Bloomberg HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11612
-#EXTINF:-1,UK: History HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: History HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11624
-#EXTINF:-1,UK: History 2 HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: History 2 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11625
-#EXTINF:-1,UK: Crime+ Investigation FHD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: Crime+ Investigation FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11626
 #EXTINF:-1,UK: BBC One Wales HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11632
@@ -659,11 +659,11 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13864
 http://client.more-itv.com:8080/57ijhg/e46ujj/13865
 #EXTINF:-1,US: HLN
 http://client.more-itv.com:8080/57ijhg/e46ujj/13866
-#EXTINF:-1,US: History Channel FHD
+#EXTINF:-1 group-title="KNOWLEDGE",US: History Channel FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13867
-#EXTINF:-1,US: History Channel
+#EXTINF:-1 group-title="KNOWLEDGE",US: History Channel
 http://client.more-itv.com:8080/57ijhg/e46ujj/13868
-#EXTINF:-1,US: History 2 FHD
+#EXTINF:-1 group-title="KNOWLEDGE",US: History 2 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13869
 #EXTINF:-1,US: HGTV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13870
@@ -705,7 +705,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13902
 http://client.more-itv.com:8080/57ijhg/e46ujj/13903
 #EXTINF:-1,US: FOX 5 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13904
-#EXTINF:-1,US: Food Network FHD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Food Network FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13905
 #EXTINF:-1,US: F SPORTS NETWORK
 http://client.more-itv.com:8080/57ijhg/e46ujj/13906
@@ -743,17 +743,17 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13919
 http://client.more-itv.com:8080/57ijhg/e46ujj/13920
 #EXTINF:-1,US: Disney Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13921
-#EXTINF:-1,US: Discovery Science HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Science HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13922
-#EXTINF:-1,US: Discovery Life HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Life HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13923
-#EXTINF:-1,US: Discovery Family HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Family HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13924
-#EXTINF:-1,US: Discovery Channel HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13925
-#EXTINF:-1,US: Destination America HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Destination America HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13926
-#EXTINF:-1,US: Crime & Investigation TV HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Crime & Investigation TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13927
 #EXTINF:-1,US: COZI TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13928
@@ -807,7 +807,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13959
 http://client.more-itv.com:8080/57ijhg/e46ujj/13960
 #EXTINF:-1,US: ANTENNA TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13961
-#EXTINF:-1,US: Animal Planet HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Animal Planet HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13962
 #EXTINF:-1,US: American Heroes Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13963
@@ -877,9 +877,9 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14009
 http://client.more-itv.com:8080/57ijhg/e46ujj/14014
 #EXTINF:-1,US: FX HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14015
-#EXTINF:-1,US: Food Network HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Food Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14017
-#EXTINF:-1,US: Discovery Science HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Science HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14019
 #EXTINF:-1,US: TBS HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14031
