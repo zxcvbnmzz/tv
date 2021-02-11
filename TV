@@ -121,29 +121,29 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/11640
 http://client.more-itv.com:8080/57ijhg/e46ujj/11639
 #EXTINF:-1,UK: Racing TV SD
 http://client.more-itv.com:8080/57ijhg/e46ujj/69006
-#EXTINF:-1,UK: Sky Cinema Family HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Family HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11599
-#EXTINF:-1,UK: Sky Cinema Animation HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Animation HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11600
-#EXTINF:-1,UK: Sky Cinema Disney HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Disney HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11601
-#EXTINF:-1,UK: Sky Cinema Comedy HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Comedy HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11602
-#EXTINF:-1,UK: Sky Cinema Action HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Action HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11603
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Crime & Thriller HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11604
-#EXTINF:-1,UK: Sky Cinema Select FHD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Select FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11605
-#EXTINF:-1,UK: Sky Cinema Sci-Fi Horror HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Sci-Fi Horror HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11606
-#EXTINF:-1,UK: Sky Cinema Premiere HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Premiere HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11607
-#EXTINF:-1,UK: Sky Cinema Hits HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Hits HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11608
-#EXTINF:-1,UK: Sky Cinema Atlantic HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Atlantic HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11609
-#EXTINF:-1,UK: Sky Cinema Greats HD
+#EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Greats HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11610
 #EXTINF:-1,UK: Sky Arts HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11613
@@ -199,7 +199,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/11642
 http://client.more-itv.com:8080/57ijhg/e46ujj/11643
 #EXTINF:-1,UK: E4 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11644
-#EXTINF:-1,UK: Film4 HD
+#EXTINF:-1 group-title="CINEMA",UK: Film4 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11645
 #EXTINF:-1,UK: More4 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11646
@@ -295,13 +295,13 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/55963
 http://client.more-itv.com:8080/57ijhg/e46ujj/75909
 #EXTINF:-1,UK: Rangers TV FHD 
 http://client.more-itv.com:8080/57ijhg/e46ujj/55964
-#EXTINF:-1,UK: RT Documentary HD
+#EXTINF:-1 group-title="KNOWLEDGE",UK: RT Documentary HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/55965
 #EXTINF:-1,UK: Home & Health
 http://client.more-itv.com:8080/57ijhg/e46ujj/11706
 #EXTINF:-1,UK: COLORS
 http://client.more-itv.com:8080/57ijhg/e46ujj/11708
-#EXTINF:-1,UK: Zee Cinema TV
+#EXTINF:-1 group-title="CINEMA",UK: Zee Cinema TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/11709
 #EXTINF:-1,UK: GEO Kahani
 http://client.more-itv.com:8080/57ijhg/e46ujj/11710
@@ -461,39 +461,39 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13782
 http://client.more-itv.com:8080/57ijhg/e46ujj/14122
 #EXTINF:-1,US: TLC West HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14011
-#EXTINF:-1,US: HBO HD
+#EXTINF:-1 group-title="CINEMA",US: HBO HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13875
-#EXTINF:-1,US: HBO 2 HD
+#EXTINF:-1 group-title="CINEMA",US: HBO 2 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13878
-#EXTINF:-1,US: HBO Zone HD
+#EXTINF:-1 group-title="CINEMA",US: HBO Zone HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13873
-#EXTINF:-1,US: HBO Family HD TV
+#EXTINF:-1 group-title="CINEMA",US: HBO Family HD TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13876
-#EXTINF:-1,US: HBO Comedy HD
+#EXTINF:-1 group-title="CINEMA",US: HBO Comedy HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13877
-#EXTINF:-1,US: HBO East HD
+#EXTINF:-1 group-title="CINEMA",US: HBO East HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14117
-#EXTINF:-1,US: HBO Comedy
+#EXTINF:-1 group-title="CINEMA",US: HBO Comedy
 http://client.more-itv.com:8080/57ijhg/e46ujj/14118
-#EXTINF:-1,US: HBO Signature
+#EXTINF:-1 group-title="CINEMA",US: HBO Signature
 http://client.more-itv.com:8080/57ijhg/e46ujj/14115
-#EXTINF:-1,US: HBO Zone
+#EXTINF:-1 group-title="CINEMA",US: HBO Zone
 http://client.more-itv.com:8080/57ijhg/e46ujj/14114
-#EXTINF:-1,US: Cinemax HD
+#EXTINF:-1 group-title="CINEMA",US: Cinemax HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14022
-#EXTINF:-1,US: Cinemax East
+#EXTINF:-1 group-title="CINEMA",US: Cinemax East
 http://client.more-itv.com:8080/57ijhg/e46ujj/13940
-#EXTINF:-1,US: Cinemax West
+#EXTINF:-1 group-title="CINEMA",US: Cinemax West
 http://client.more-itv.com:8080/57ijhg/e46ujj/13997
-#EXTINF:-1,US: Cinemax ThrillerMAX HD
+#EXTINF:-1 group-title="CINEMA",US: Cinemax ThrillerMAX HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13937
-#EXTINF:-1,US: Cinemax Outer Max
+#EXTINF:-1 group-title="CINEMA",US: Cinemax Outer Max
 http://client.more-itv.com:8080/57ijhg/e46ujj/13938
-#EXTINF:-1,US: Cinemax MovieMax HD
+#EXTINF:-1 group-title="CINEMA",US: Cinemax MovieMax HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13939
-#EXTINF:-1,US: Cinemax Action MAX (East)
+#EXTINF:-1 group-title="CINEMA",US: Cinemax Action MAX (East)
 http://client.more-itv.com:8080/57ijhg/e46ujj/13941
-#EXTINF:-1,US: Cinemaxx More Maxx HD
+#EXTINF:-1 group-title="CINEMA",US: Cinemaxx More Maxx HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13936
 #EXTINF:-1,US: Starz HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13800
@@ -533,11 +533,11 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14096
 http://client.more-itv.com:8080/57ijhg/e46ujj/14110
 #EXTINF:-1,US: Showtime East HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14044
-#EXTINF:-1,US: Hallmark HD
+#EXTINF:-1 group-title="CINEMA",US: Hallmark HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13880
-#EXTINF:-1,US: Hallmark Drama FHD
+#EXTINF:-1 group-title="CINEMA",US: Hallmark Drama FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13881
-#EXTINF:-1,US: Hallmark Movies & Mysteries HD
+#EXTINF:-1 group-title="CINEMA",US: Hallmark Movies & Mysteries HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13879
 #EXTINF:-1,US: SPORTSNET NY
 http://client.more-itv.com:8080/57ijhg/e46ujj/13801
@@ -547,7 +547,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13803
 http://client.more-itv.com:8080/57ijhg/e46ujj/13804
 #EXTINF:-1,US: SEC Network
 http://client.more-itv.com:8080/57ijhg/e46ujj/13810
-#EXTINF:-1,US: RT NEWS
+#EXTINF:-1 group-title="NEWS",US: RT NEWS
 http://client.more-itv.com:8080/57ijhg/e46ujj/13811
 #EXTINF:-1,US: Revolt FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13812
@@ -589,7 +589,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13829
 http://client.more-itv.com:8080/57ijhg/e46ujj/13830
 #EXTINF:-1,US: Outdoor Channel
 http://client.more-itv.com:8080/57ijhg/e46ujj/13831
-#EXTINF:-1,US: One America News
+#EXTINF:-1 group-title="NEWS",US: One America News
 http://client.more-itv.com:8080/57ijhg/e46ujj/13832
 #EXTINF:-1,US: Nicktoons
 http://client.more-itv.com:8080/57ijhg/e46ujj/13833
@@ -605,7 +605,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13837
 http://client.more-itv.com:8080/57ijhg/e46ujj/13838
 #EXTINF:-1,US: NFL Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13839
-#EXTINF:-1,US: NEWS 12 NEW JERSEY
+#EXTINF:-1 group-title="NEWS",US: NEWS 12 NEW JERSEY
 http://client.more-itv.com:8080/57ijhg/e46ujj/13840
 #EXTINF:-1,US: NESN
 http://client.more-itv.com:8080/57ijhg/e46ujj/13842
@@ -613,10 +613,12 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13842
 http://client.more-itv.com:8080/57ijhg/e46ujj/13843
 #EXTINF:-1,US: NBA TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14113
-#EXTINF:-1,US: National Geographic Wild HD
+
+#EXTINF:-1 group-title="KNOWLEDGE",US: National Geographic Wild HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13844
-#EXTINF:-1,US: National Geographic HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: National Geographic HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13845
+
 #EXTINF:-1,US: MY 9
 http://client.more-itv.com:8080/57ijhg/e46ujj/13846
 #EXTINF:-1,US: MTV2
@@ -741,6 +743,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13918
 http://client.more-itv.com:8080/57ijhg/e46ujj/13919
 #EXTINF:-1,US: Disney Junior HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13920
+
 #EXTINF:-1,US: Disney Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13921
 #EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Science HD
@@ -755,6 +758,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13925
 http://client.more-itv.com:8080/57ijhg/e46ujj/13926
 #EXTINF:-1 group-title="KNOWLEDGE",US: Crime & Investigation TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13927
+
 #EXTINF:-1,US: COZI TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13928
 #EXTINF:-1,US: Country Network
@@ -797,7 +801,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13954
 http://client.more-itv.com:8080/57ijhg/e46ujj/13955
 #EXTINF:-1,US: beIN SPORTS USA
 http://client.more-itv.com:8080/57ijhg/e46ujj/13956
-#EXTINF:-1,US: BBC America
+#EXTINF:-1 group-title="NEWS",US: BBC America
 http://client.more-itv.com:8080/57ijhg/e46ujj/13957
 #EXTINF:-1,US: Baby TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13958
@@ -859,7 +863,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13993
 http://client.more-itv.com:8080/57ijhg/e46ujj/13994
 #EXTINF:-1,US: ELEVEN
 http://client.more-itv.com:8080/57ijhg/e46ujj/13995
-#EXTINF:-1,US: BBC World News HD
+#EXTINF:-1 group-title="NEWS",US: BBC World News HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13998
 #EXTINF:-1,US: AHC
 http://client.more-itv.com:8080/57ijhg/e46ujj/13999
@@ -877,10 +881,12 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14009
 http://client.more-itv.com:8080/57ijhg/e46ujj/14014
 #EXTINF:-1,US: FX HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14015
+
 #EXTINF:-1 group-title="KNOWLEDGE",US: Food Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14017
 #EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Science HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14019
+
 #EXTINF:-1,US: TBS HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14031
 #EXTINF:-1,US: NHL Network (BACK UP)
@@ -895,25 +901,25 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14058
 http://client.more-itv.com:8080/57ijhg/e46ujj/14060
 #EXTINF:-1,US: NBC HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14061
-#EXTINF:-1,US: Bloomberg TV HD
+#EXTINF:-1group-title="NEWS",US: Bloomberg TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14062
-#EXTINF:-1,US: WGN News 
+#EXTINF:-1 group-title="NEWS",US: WGN News 
 http://client.more-itv.com:8080/57ijhg/e46ujj/14068
 #EXTINF:-1,US: Yes Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14069
 #EXTINF:-1,US: YTV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14070
-#EXTINF:-1,US: ESPN News HD
+#EXTINF:-1 group-title="NEWS",US: ESPN News HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14072
 #EXTINF:-1,US: WWE HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14078
-#EXTINF:-1,US: NBCSN HD
+#EXTINF:-1 group-title="NEWS",US: NBCSN HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14086
-#EXTINF:-1,US: CNN HD
+#EXTINF:-1 group-title="NEWS",US: CNN HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13933
-#EXTINF:-1,US: Fox News HD
+#EXTINF:-1 group-title="NEWS",US: Fox News HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14097
-#EXTINF:-1,US: Fox News
+#EXTINF:-1 group-title="NEWS",US: Fox News
 http://client.more-itv.com:8080/57ijhg/e46ujj/13897
 #EXTINF:-1,US: NBC News Now
 http://client.more-itv.com:8080/57ijhg/e46ujj/80586
@@ -931,28 +937,11 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14102
 http://client.more-itv.com:8080/57ijhg/e46ujj/14105
 #EXTINF:-1,US: Starz Encore Suspense HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14106
-#EXTINF:-1,US: Starz Cinema HD
+#EXTINF:-1 group-title="CINEMA",US: Starz Cinema HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14109
 #EXTINF:-1,US: CNBC
 http://client.more-itv.com:8080/57ijhg/e46ujj/14123
-#EXTINF:-1,US: ABC News Live 1
-http://client.more-itv.com:8080/57ijhg/e46ujj/14131
-#EXTINF:-1,US: ABC News Live 2
-http://client.more-itv.com:8080/57ijhg/e46ujj/14132
-#EXTINF:-1,US: ABC News Live 3
-http://client.more-itv.com:8080/57ijhg/e46ujj/14133
-#EXTINF:-1,US: ABC News Live 4
-http://client.more-itv.com:8080/57ijhg/e46ujj/14134
-#EXTINF:-1,US: ABC News Live 5
-http://client.more-itv.com:8080/57ijhg/e46ujj/14135
-#EXTINF:-1,US: ABC News Live 6
-http://client.more-itv.com:8080/57ijhg/e46ujj/14136
-#EXTINF:-1,US: ABC News Live 7
-http://client.more-itv.com:8080/57ijhg/e46ujj/14137
-#EXTINF:-1,US: ABC News Live 8
-http://client.more-itv.com:8080/57ijhg/e46ujj/14138
-#EXTINF:-1,US: ABC News Live 9
-http://client.more-itv.com:8080/57ijhg/e46ujj/14139
+
 #EXTINF:-1,US: ET Live
 http://client.more-itv.com:8080/57ijhg/e46ujj/80548
 #EXTINF:-1,US: People TV HD
@@ -1026,3 +1015,26 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/80588
 #EXTINF:-1,US: Fox Miami-WSVN
 http://client.more-itv.com:8080/57ijhg/e46ujj/80589
 
+
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="LOCAL",SEMOGA MASIH JUMPA BULAN DEPAN 🙏
+http://codaytv.eu/coday.ts?48
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="NEWS",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?31
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="RELIGIOUS",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?52
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="SPORTS",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?89
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="ENTERTAINMENT",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?17
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="MOVIES",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?13
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="MUSIC",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?75
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="CINEMA",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?36
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="KNOWLEDGE",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?87
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="HBO GO",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?4
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="xXx",SEMOGA MASIH JUMPA BULAN DEPAN 
+http://codaytv.eu/coday.ts?27
