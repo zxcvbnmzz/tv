@@ -3,86 +3,101 @@
 
 #EXTINF:-1,###  ۩ UK | Sports ۩  ### 
 http://client.more-itv.com:8080/57ijhg/e46ujj/78760
-#EXTINF:-1,SPORT UK: BT Sport 1 HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport 1 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11157
-#EXTINF:-1,SPORT UK: BT Sport 1 FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport 1 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/68991
-#EXTINF:-1,SPORT UK: BT Sport 2 HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport 2 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11158
-#EXTINF:-1,SPORT UK: BT Sport 2 FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport 2 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/68993
-#EXTINF:-1,SPORT UK: BT Sport 3 HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport 3 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11159
-#EXTINF:-1,SPORT UK: BT Sport 3 FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport 3 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/68994
-#EXTINF:-1,SPORT UK: Sky Sports Premier League HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Premier League HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11581
 #EXTINF:-1,SPORT UK: Sky Sports Premier League FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11161
-#EXTINF:-1,SPORT UK: Sky Sports Main Event HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Main Event HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11164
-#EXTINF:-1,SPORT UK: Sky Sports Main Event FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Main Event FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/69001
-#EXTINF:-1,SPORT UK: Sky Sports Football HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Football HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/68998
-#EXTINF:-1,SPORT UK: Sky Sports Football FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Football FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11174
-#EXTINF:-1,SPORT UK: Premier Sports 1 FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Premier Sports 1 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11162
-#EXTINF:-1,SPORT UK: Premier Sports 2 FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Premier Sports 2 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11163
-#EXTINF:-1,SPORT UK: Sky Sports Cricket FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Cricket FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11170
-#EXTINF:-1,SPORT UK: Sky Sports Action FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Action FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11171
-#EXTINF:-1,SPORT UK: Sky Sports Arena HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Arena HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11172
-#EXTINF:-1,UK: Sky Sports Box Office HD
+#EXTINF:-1 group-title="SPORT",UK: Sky Sports Box Office HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/121313
-#EXTINF:-1,SPORT UK: Sky Sports F1 HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports F1 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11585
-#EXTINF:-1,SPORT UK: Sky Sports F1 FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports F1 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11173
-#EXTINF:-1,SPORT UK: Sky Sports Golf FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Golf FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11175
-#EXTINF:-1,SPORT UK: Sky Sports Mix HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Mix HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11176
-#EXTINF:-1,SPORT UK: Sky Sports Racing HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports Racing HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11589
-#EXTINF:-1,SPORT UK: BT Sport ESPN FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport ESPN FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11160
-#EXTINF:-1,SPORT UK: Sky Sports News HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Sky Sports News HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11590
-#EXTINF:-1,SPORT UK: Eurosport 1 HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Eurosport 1 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11166
-#EXTINF:-1,SPORT UK: Eurosport 2 HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Eurosport 2 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11167
-#EXTINF:-1,SPORT UK: FreeSports FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: FreeSports FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11692
-#EXTINF:-1,SPORT UK: Eir Sport 1 HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Eir Sport 1 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11580
-#EXTINF:-1,SPORT UK: Eir Sport 2 HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Eir Sport 2 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11579
-#EXTINF:-1,SPORT UK: MUTV
+#EXTINF:-1 group-title="SPORT",SPORT UK: MUTV
 http://client.more-itv.com:8080/57ijhg/e46ujj/11693
-#EXTINF:-1,SPORT UK: LFC TV HD
+#EXTINF:-1 group-title="SPORT",SPORT UK: LFC TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11168
-#EXTINF:-1,SPORT UK: Chelsea FC
+#EXTINF:-1 group-title="SPORT",SPORT UK: Chelsea FC
 http://client.more-itv.com:8080/57ijhg/e46ujj/11165
-#EXTINF:-1,SPORT UK: Racing TV FHD
+#EXTINF:-1 group-title="SPORT",SPORT UK: Racing TV FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11169
-#EXTINF:-1,SPORT UK: BT Sport Extra 1
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport Extra 1
 http://client.more-itv.com:8080/57ijhg/e46ujj/105157
-#EXTINF:-1,SPORT UK: BT Sport Extra 2
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport Extra 2
 http://client.more-itv.com:8080/57ijhg/e46ujj/105158
-#EXTINF:-1,SPORT UK: BT Sport Extra 3
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport Extra 3
 http://client.more-itv.com:8080/57ijhg/e46ujj/105159
-#EXTINF:-1,SPORT UK: BT Sport Extra 4
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport Extra 4
 http://client.more-itv.com:8080/57ijhg/e46ujj/105160
-#EXTINF:-1,SPORT UK: BT Sport Extra 5
+#EXTINF:-1 group-title="SPORT",SPORT UK: BT Sport Extra 5
 http://client.more-itv.com:8080/57ijhg/e46ujj/105161
-#EXTINF:-1,SPORT UK: Celtic TV [ Live Evnets Only ]
+#EXTINF:-1 group-title="SPORT",SPORT UK: Celtic TV [ Live Evnets Only ]
 http://client.more-itv.com:8080/57ijhg/e46ujj/105435
+
+#EXTINF:-1 group-title="SPORT",US: NHL NETWORK
+http://client.more-itv.com:8080/57ijhg/e46ujj/13837
+#EXTINF:-1 group-title="SPORT",US: NFL Red Zone
+http://client.more-itv.com:8080/57ijhg/e46ujj/13838
+#EXTINF:-1 group-title="SPORT",US: NFL Network HD
+http://client.more-itv.com:8080/57ijhg/e46ujj/13839
+#EXTINF:-1 group-title="NEWS",US: NEWS 12 NEW JERSEY
+http://client.more-itv.com:8080/57ijhg/e46ujj/13840
+#EXTINF:-1 group-title="SPORT",US: NESN
+http://client.more-itv.com:8080/57ijhg/e46ujj/13842
+#EXTINF:-1 group-title="SPORT",US: NBA TV
+http://client.more-itv.com:8080/57ijhg/e46ujj/13843
+#EXTINF:-1 group-title="SPORT",US: NBA TV HD
+http://client.more-itv.com:8080/57ijhg/e46ujj/14113
 
 
 #EXTINF:-1,### ۩ United Kingdom TV ۩ ###  
@@ -121,6 +136,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/11640
 http://client.more-itv.com:8080/57ijhg/e46ujj/11639
 #EXTINF:-1,UK: Racing TV SD
 http://client.more-itv.com:8080/57ijhg/e46ujj/69006
+
 #EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Family HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11599
 #EXTINF:-1 group-title="CINEMA",UK: Sky Cinema Animation HD
@@ -153,6 +169,8 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/11614
 http://client.more-itv.com:8080/57ijhg/e46ujj/11647
 #EXTINF:-1,UK: Sky Tow HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/69005
+
+
 #EXTINF:-1 group-title="KNOWLEDGE",UK: National Geographic FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11615
 #EXTINF:-1 group-title="KNOWLEDGE",UK: National Geographic Wild FHD
@@ -183,6 +201,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/11624
 http://client.more-itv.com:8080/57ijhg/e46ujj/11625
 #EXTINF:-1 group-title="KNOWLEDGE",UK: Crime+ Investigation FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11626
+
 #EXTINF:-1,UK: BBC One Wales HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11632
 #EXTINF:-1,UK: BBC One Scotland HD
@@ -325,48 +344,51 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/31284
 http://client.more-itv.com:8080/57ijhg/e46ujj/11587
 #EXTINF:-1,UK: Yesterday
 http://client.more-itv.com:8080/57ijhg/e46ujj/31485
-#EXTINF:-1,UK: MTV HD
+
+#EXTINF:-1 group-title="MUSIC",UK: MTV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11687
-#EXTINF:-1,UK: MTV Live HD
+#EXTINF:-1 group-title="MUSIC",UK: MTV Live HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11686
-#EXTINF:-1,UK: MTV Classic
+#EXTINF:-1 group-title="MUSIC",UK: MTV Classic
 http://client.more-itv.com:8080/57ijhg/e46ujj/55982
-#EXTINF:-1,UK: MTV Club
+#EXTINF:-1 group-title="MUSIC",UK: MTV Club
 http://client.more-itv.com:8080/57ijhg/e46ujj/55983
-#EXTINF:-1,UK: MTV Hits
+#EXTINF:-1 group-title="MUSIC",UK: MTV Hits
 http://client.more-itv.com:8080/57ijhg/e46ujj/55984
-#EXTINF:-1,UK: MTV Music
+#EXTINF:-1 group-title="MUSIC",UK: MTV Music
 http://client.more-itv.com:8080/57ijhg/e46ujj/55985
-#EXTINF:-1,UK: MTV OMG
+#EXTINF:-1 group-title="MUSIC",UK: MTV OMG
 http://client.more-itv.com:8080/57ijhg/e46ujj/55986
-#EXTINF:-1,UK: MTV Rocks
+#EXTINF:-1 group-title="MUSIC",UK: MTV Rocks
 http://client.more-itv.com:8080/57ijhg/e46ujj/55987
-#EXTINF:-1,UK: MTV Base
+#EXTINF:-1 group-title="MUSIC",UK: MTV Base
 http://client.more-itv.com:8080/57ijhg/e46ujj/75910
-#EXTINF:-1,UK: NOW 80s
+#EXTINF:-1 group-title="MUSIC",UK: NOW 80s
 http://client.more-itv.com:8080/57ijhg/e46ujj/11597
-#EXTINF:-1,UK: NOW 90s
+#EXTINF:-1 group-title="MUSIC",UK: NOW 90s
 http://client.more-itv.com:8080/57ijhg/e46ujj/11596
-#EXTINF:-1,UK: Clubland TV
+#EXTINF:-1 group-title="MUSIC",UK: Clubland TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/11591
-#EXTINF:-1,UK: The Box
+#EXTINF:-1 group-title="MUSIC",UK: The Box
 http://client.more-itv.com:8080/57ijhg/e46ujj/11592
-#EXTINF:-1,UK: Box Hits
+#EXTINF:-1 group-title="MUSIC",UK: Box Hits
 http://client.more-itv.com:8080/57ijhg/e46ujj/11593
-#EXTINF:-1,UK: Kiss TV
+#EXTINF:-1 group-title="MUSIC",UK: Kiss TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/11594
-#EXTINF:-1,UK: Magic TV
+#EXTINF:-1 group-title="MUSIC",UK: Magic TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/11595
-#EXTINF:-1,UK: Sky News HD
+
+#EXTINF:-1 group-title="NEWS",UK: Sky News HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11611
-#EXTINF:-1,UK: RTE News
+#EXTINF:-1 group-title="NEWS",UK: RTE News
 http://client.more-itv.com:8080/57ijhg/e46ujj/11682
-#EXTINF:-1,UK: CNN HD
+#EXTINF:-1 group-title="NEWS",UK: CNN HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11688
-#EXTINF:-1,UK: BBC World News
+#EXTINF:-1 group-title="NEWS",UK: BBC World News
 http://client.more-itv.com:8080/57ijhg/e46ujj/11689
-#EXTINF:-1,UK: BBC News HD
+#EXTINF:-1 group-title="NEWS",UK: BBC News HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11627
+
 
 
 #EXTINF:-1,### ۩ USA TV ۩ ###
@@ -407,7 +429,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13766
 http://client.more-itv.com:8080/57ijhg/e46ujj/13767
 #EXTINF:-1,US: Viceland TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13768
-#EXTINF:-1,US: VH1 HD
+#EXTINF:-1 group-title="MUSIC",US: VH1 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13769
 #EXTINF:-1,US: USA Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13770
@@ -439,21 +461,21 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13783
 http://client.more-itv.com:8080/57ijhg/e46ujj/13784
 #EXTINF:-1,US: THE CW-PIX 11
 http://client.more-itv.com:8080/57ijhg/e46ujj/13785
-#EXTINF:-1,US: Tennis Channel HD
+#EXTINF:-1 group-title="SPORT",US: Tennis Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13786
 #EXTINF:-1,US: Telemundo FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13787
 #EXTINF:-1,US: Teen Nick
 http://client.more-itv.com:8080/57ijhg/e46ujj/13788
-#EXTINF:-1,US: TCM Movies HD
+#EXTINF:-1 group-title="CINEMA",US: TCM Movies HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13789
-#EXTINF:-1,US: TBS
+#EXTINF:-1 group-title="CINEMA",US: TBS
 http://client.more-itv.com:8080/57ijhg/e46ujj/13790
-#EXTINF:-1,US: TBN Trinity Broadcasting Network
+#EXTINF:-1 group-title="CINEMA",US: TBN Trinity Broadcasting Network
 http://client.more-itv.com:8080/57ijhg/e46ujj/13791
-#EXTINF:-1,US: SYFY HD
+#EXTINF:-1 group-title="CINEMA",US: SYFY HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13792
-#EXTINF:-1,US: Sundance
+#EXTINF:-1 group-title="CINEMA",US: Sundance
 http://client.more-itv.com:8080/57ijhg/e46ujj/13793
 #EXTINF:-1,US: TLC Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13782
@@ -591,28 +613,17 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13830
 http://client.more-itv.com:8080/57ijhg/e46ujj/13831
 #EXTINF:-1 group-title="NEWS",US: One America News
 http://client.more-itv.com:8080/57ijhg/e46ujj/13832
-#EXTINF:-1,US: Nicktoons
+
+#EXTINF:-1 group-title="CARTOON",US: Nicktoons
 http://client.more-itv.com:8080/57ijhg/e46ujj/13833
-#EXTINF:-1,US: Nick Jr. Too
+#EXTINF:-1 group-title="CARTOON",US: Nick Jr. Too
 http://client.more-itv.com:8080/57ijhg/e46ujj/13834
-#EXTINF:-1,US: Nick Jr.
+#EXTINF:-1 group-title="CARTOON",US: Nick Jr.
 http://client.more-itv.com:8080/57ijhg/e46ujj/13835
-#EXTINF:-1,US: NICK HD
+#EXTINF:-1 group-title="CARTOON",US: NICK HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13836
-#EXTINF:-1,US: NHL NETWORK
-http://client.more-itv.com:8080/57ijhg/e46ujj/13837
-#EXTINF:-1,US: NFL Red Zone
-http://client.more-itv.com:8080/57ijhg/e46ujj/13838
-#EXTINF:-1,US: NFL Network HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13839
-#EXTINF:-1 group-title="NEWS",US: NEWS 12 NEW JERSEY
-http://client.more-itv.com:8080/57ijhg/e46ujj/13840
-#EXTINF:-1,US: NESN
-http://client.more-itv.com:8080/57ijhg/e46ujj/13842
-#EXTINF:-1,US: NBA TV
-http://client.more-itv.com:8080/57ijhg/e46ujj/13843
-#EXTINF:-1,US: NBA TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/14113
+
+
 
 #EXTINF:-1 group-title="KNOWLEDGE",US: National Geographic Wild HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13844
@@ -621,11 +632,11 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13845
 
 #EXTINF:-1,US: MY 9
 http://client.more-itv.com:8080/57ijhg/e46ujj/13846
-#EXTINF:-1,US: MTV2
+#EXTINF:-1 group-title="MUSIC",US: MTV2
 http://client.more-itv.com:8080/57ijhg/e46ujj/13847
-#EXTINF:-1,US: MTV Live HD
+#EXTINF:-1 group-title="MUSIC",US: MTV Live HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13848
-#EXTINF:-1,US: MTV HD
+#EXTINF:-1 group-title="MUSIC",US: MTV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13849
 #EXTINF:-1,US: MSNBC
 http://client.more-itv.com:8080/57ijhg/e46ujj/13850
@@ -649,9 +660,9 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13858
 http://client.more-itv.com:8080/57ijhg/e46ujj/13859
 #EXTINF:-1,US: ION TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13860
-#EXTINF:-1,US: Investigation Discovery HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Investigation Discovery HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13861
-#EXTINF:-1,US: Investigation Discovery FHD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Investigation Discovery FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13862
 #EXTINF:-1,US: InfoWars HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13863
@@ -739,13 +750,15 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13916
 http://client.more-itv.com:8080/57ijhg/e46ujj/13917
 #EXTINF:-1,US:  DIY Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13918
-#EXTINF:-1,US: Disney XD
+#EXTINF:-1 group-title="CARTOON",US: Disney XD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13919
-#EXTINF:-1,US: Disney Junior HD
+#EXTINF:-1 group-title="CARTOON",US: Disney Junior HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13920
 
-#EXTINF:-1,US: Disney Channel HD
+#EXTINF:-1 group-title="CARTOON",US: Disney Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13921
+
+
 #EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Science HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13922
 #EXTINF:-1 group-title="KNOWLEDGE",US: Discovery Life HD
@@ -897,7 +910,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14035
 http://client.more-itv.com:8080/57ijhg/e46ujj/14049
 #EXTINF:-1,US: Outdoor Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14058
-#EXTINF:-1,US: VH1 
+#EXTINF:-1 group-title="MUSIC",US: VH1 
 http://client.more-itv.com:8080/57ijhg/e46ujj/14060
 #EXTINF:-1,US: NBC HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14061
@@ -1020,7 +1033,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/80589
 http://codaytv.eu/coday.ts?48
 #EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="NEWS",SEMOGA MASIH JUMPA BULAN DEPAN 
 http://codaytv.eu/coday.ts?31
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="RELIGIOUS",SEMOGA MASIH JUMPA BULAN DEPAN 
+#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="CARTOON",SEMOGA MASIH JUMPA BULAN DEPAN 
 http://codaytv.eu/coday.ts?52
 #EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="SPORTS",SEMOGA MASIH JUMPA BULAN DEPAN 
 http://codaytv.eu/coday.ts?89
