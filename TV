@@ -235,31 +235,31 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/11651
 http://client.more-itv.com:8080/57ijhg/e46ujj/11652
 #EXTINF:-1 group-title="ENTERTAINMENT",UK: Dave TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11653
-#EXTINF:-1,UK: Alibi HD
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: Alibi HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11654
-#EXTINF:-1,UK: Pick TV
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: Pick TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/57737
-#EXTINF:-1,UK: Comedy Central FHD
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: Comedy Central FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11655
-#EXTINF:-1,UK: CBS Reality 1
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: CBS Reality 1
 http://client.more-itv.com:8080/57ijhg/e46ujj/11656
-#EXTINF:-1,UK: CBS Reality
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: CBS Reality
 http://client.more-itv.com:8080/57ijhg/e46ujj/11657
-#EXTINF:-1,UK: CBS DRAMA
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: CBS DRAMA
 http://client.more-itv.com:8080/57ijhg/e46ujj/11658
-#EXTINF:-1,UK: CBS Justice
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: CBS Justice
 http://client.more-itv.com:8080/57ijhg/e46ujj/11659
-#EXTINF:-1,UK: Fox TV FHD
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: Fox TV FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11660
-#EXTINF:-1,UK: Syfy TV HD
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: Syfy TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11661
-#EXTINF:-1,UK: W TV HD
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: W TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11662
-#EXTINF:-1,UK: Lifetime TV FHD
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: Lifetime TV FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11663
-#EXTINF:-1,UK: Home HD
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: Home HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11664
-#EXTINF:-1,UK: Food Network FHD
+#EXTINF:-1 group-title="ENTERTAINMENT",UK: Food Network FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11665
 #EXTINF:-1 group-title="CINEMA",UK: Universal HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/11666
@@ -435,23 +435,23 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13767
 http://client.more-itv.com:8080/57ijhg/e46ujj/13768
 #EXTINF:-1 group-title="MUSIC",US: VH1 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13769
-#EXTINF:-1,US: USA Network HD
+#EXTINF:-1 group-title="ENTERTAINMENT",US: USA Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13770
-#EXTINF:-1,US: Univision TDN
+#EXTINF:-1 group-title="ENTERTAINMENT",US: Univision TDN
 http://client.more-itv.com:8080/57ijhg/e46ujj/13771
-#EXTINF:-1,US: Univision Television
+#EXTINF:-1 group-title="ENTERTAINMENT",US: Univision Television
 http://client.more-itv.com:8080/57ijhg/e46ujj/13772
-#EXTINF:-1,US: Universal Kids HD
+#EXTINF:-1 group-title="CARTOON",US: Universal Kids HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13773
-#EXTINF:-1,US: Universal HD
+#EXTINF:-1 group-title="ENTERTAINMENT",US: Universal HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13774
-#EXTINF:-1,US: UNIMAS
+#EXTINF:-1 group-title="ENTERTAINMENT",US: UNIMAS
 http://client.more-itv.com:8080/57ijhg/e46ujj/13775
-#EXTINF:-1,US: TV One HD
+#EXTINF:-1 group-title="ENTERTAINMENT",US: TV One HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13776
-#EXTINF:-1,US: TVG HORSE RACING
+#EXTINF:-1 group-title="ENTERTAINMENT",US: TVG HORSE RACING
 http://client.more-itv.com:8080/57ijhg/e46ujj/13777
-#EXTINF:-1,US:  TV Land HD
+#EXTINF:-1 group-title="ENTERTAINMENT",US:  TV Land HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13778
 #EXTINF:-1,US: TRU TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13779
@@ -459,7 +459,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13779
 http://client.more-itv.com:8080/57ijhg/e46ujj/13780
 #EXTINF:-1,US: TNT HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13781
-#EXTINF:-1,US: The Weather Channel HD
+#EXTINF:-1 group-title="ENTERTAINMENT",US: The Weather Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13783
 #EXTINF:-1,US: THE CW HD-CHICAGO
 http://client.more-itv.com:8080/57ijhg/e46ujj/13784
@@ -579,11 +579,11 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13811
 http://client.more-itv.com:8080/57ijhg/e46ujj/13812
 #EXTINF:-1,US: Reelz TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13813
-#EXTINF:-1,US: RED BULL TV
+#EXTINF:-1 group-title="SPORT",US: RED BULL TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13814
 #EXTINF:-1,US: QVC
 http://client.more-itv.com:8080/57ijhg/e46ujj/13815
-#EXTINF:-1,US: PURSUIT CHANNEL
+#EXTINF:-1 group-title="ENTERTAINMENT",US: PURSUIT CHANNEL
 http://client.more-itv.com:8080/57ijhg/e46ujj/13816
 #EXTINF:-1,US: Pop FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13817
@@ -593,27 +593,27 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13818
 http://client.more-itv.com:8080/57ijhg/e46ujj/13819
 #EXTINF:-1,US: PBS
 http://client.more-itv.com:8080/57ijhg/e46ujj/13820
-#EXTINF:-1,US: PAC-12 Oregon FHD
+#EXTINF:-1 group-title="LOCAL",US: PAC-12 Oregon FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13821
-#EXTINF:-1,US: PAC-12 MOUNTAIN
+#EXTINF:-1 group-title="LOCAL",US: PAC-12 MOUNTAIN
 http://client.more-itv.com:8080/57ijhg/e46ujj/13822
-#EXTINF:-1,US: PAC-12 BAY AREA
+#EXTINF:-1 group-title="LOCAL",US: PAC-12 BAY AREA
 http://client.more-itv.com:8080/57ijhg/e46ujj/13823
-#EXTINF:-1,US: PAC-12 ARIZONA
+#EXTINF:-1 group-title="LOCAL",US: PAC-12 ARIZONA
 http://client.more-itv.com:8080/57ijhg/e46ujj/13824
-#EXTINF:-1,US: PAC 12 NETWORK
+#EXTINF:-1 group-title="LOCAL",US: PAC 12 NETWORK
 http://client.more-itv.com:8080/57ijhg/e46ujj/13825
-#EXTINF:-1,US: PAC 12 LOS ANGELES
+#EXTINF:-1 group-title="LOCAL",US: PAC 12 LOS ANGELES
 http://client.more-itv.com:8080/57ijhg/e46ujj/13826
-#EXTINF:-1,US: Oxygen HD
+#EXTINF:-1 group-title="LOCAL",US: Oxygen HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13827
-#EXTINF:-1,US: OWN NETWORK HD
+#EXTINF:-1 group-title="LOCAL",US: OWN NETWORK HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13828
-#EXTINF:-1,US: OVATION
+#EXTINF:-1 group-title="LOCAL",US: OVATION
 http://client.more-itv.com:8080/57ijhg/e46ujj/13829
-#EXTINF:-1,US: Outside TV
+#EXTINF:-1 group-title="LOCAL",US: Outside TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13830
-#EXTINF:-1,US: Outdoor Channel
+#EXTINF:-1 group-title="LOCAL",US: Outdoor Channel
 http://client.more-itv.com:8080/57ijhg/e46ujj/13831
 #EXTINF:-1 group-title="NEWS",US: One America News
 http://client.more-itv.com:8080/57ijhg/e46ujj/13832
@@ -654,15 +654,15 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13853
 http://client.more-itv.com:8080/57ijhg/e46ujj/13854
 #EXTINF:-1,US: MAV TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13855
-#EXTINF:-1,US: Longhorn Network HD
+#EXTINF:-1 group-title="LOCAL",US: Longhorn Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13856
-#EXTINF:-1,US: Lifetime Movies HD
+#EXTINF:-1 group-title="LOCAL",US: Lifetime Movies HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13857
-#EXTINF:-1,US: LIFETIME
+#EXTINF:-1group-title="LOCAL",US: LIFETIME
 http://client.more-itv.com:8080/57ijhg/e46ujj/13858
-#EXTINF:-1,US: Laff TV
+#EXTINF:-1 group-title="LOCAL",US: Laff TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13859
-#EXTINF:-1,US: ION TV
+#EXTINF:-1 group-title="LOCAL",US: ION TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13860
 #EXTINF:-1 group-title="KNOWLEDGE",US: Investigation Discovery HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13861
@@ -670,11 +670,11 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13861
 http://client.more-itv.com:8080/57ijhg/e46ujj/13862
 #EXTINF:-1,US: InfoWars HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13863
-#EXTINF:-1,US: IFC
+#EXTINF:-1 group-title="LOCAL",US: IFC
 http://client.more-itv.com:8080/57ijhg/e46ujj/13864
 #EXTINF:-1,US: HSN-Home Shopping Network
 http://client.more-itv.com:8080/57ijhg/e46ujj/13865
-#EXTINF:-1,US: HLN
+#EXTINF:-1 group-title="LOCAL",US: HLN
 http://client.more-itv.com:8080/57ijhg/e46ujj/13866
 #EXTINF:-1 group-title="KNOWLEDGE",US: History Channel FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13867
@@ -682,21 +682,21 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13867
 http://client.more-itv.com:8080/57ijhg/e46ujj/13868
 #EXTINF:-1 group-title="KNOWLEDGE",US: History 2 FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13869
-#EXTINF:-1,US: HGTV HD
+#EXTINF:-1 group-title="LOCAL",US: HGTV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13870
-#EXTINF:-1,US: HGTV FHD
+#EXTINF:-1 group-title="LOCAL",US: HGTV FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13871
-#EXTINF:-1,US: Heroes & Icons
+#EXTINF:-1 group-title="LOCAL",US: Heroes & Icons
 http://client.more-itv.com:8080/57ijhg/e46ujj/13872
-#EXTINF:-1,US: GRIT TV
+#EXTINF:-1 group-title="LOCAL",US: GRIT TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13882
-#EXTINF:-1,US: Golf Channel HD
+#EXTINF:-1 group-title="SPORT",US: Golf Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13883
 #EXTINF:-1,US: GAME SHOW NETWORK
 http://client.more-itv.com:8080/57ijhg/e46ujj/13884
-#EXTINF:-1,US: Galavisión HD
+#EXTINF:-1 ,US: Galavisión HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13885
-#EXTINF:-1,US: FYI NETWORK
+#EXTINF:-1 ,US: FYI NETWORK
 http://client.more-itv.com:8080/57ijhg/e46ujj/13886
 #EXTINF:-1,US: FXX HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13887
@@ -798,15 +798,15 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13943
 http://client.more-itv.com:8080/57ijhg/e46ujj/13944
 #EXTINF:-1,US: CBS EAST
 http://client.more-itv.com:8080/57ijhg/e46ujj/13945
-#EXTINF:-1,US: Cartoon Network HD
+#EXTINF:-1 group-title="CARTOON",US: Cartoon Network HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13946
 #EXTINF:-1,US: BUZZER
 http://client.more-itv.com:8080/57ijhg/e46ujj/13947
 #EXTINF:-1,US: Bravo TV FHD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13948
-#EXTINF:-1,US: Bounce TV HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Bounce TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13949
-#EXTINF:-1,US: Boomerang HD
+#EXTINF:-1 group-title="KNOWLEDGE",US: Boomerang HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/13950
 #EXTINF:-1,US: Blaze TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/13952
@@ -856,7 +856,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13972
 http://client.more-itv.com:8080/57ijhg/e46ujj/13973
 #EXTINF:-1,US: TBS
 http://client.more-itv.com:8080/57ijhg/e46ujj/13975
-#EXTINF:-1,US: Sony Movie Channel
+#EXTINF:-1 group-title="CINEMA",US: Sony Movie Channel
 http://client.more-itv.com:8080/57ijhg/e46ujj/13976
 #EXTINF:-1,US: OWN
 http://client.more-itv.com:8080/57ijhg/e46ujj/13978
@@ -888,7 +888,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/13999
 http://client.more-itv.com:8080/57ijhg/e46ujj/14000
 #EXTINF:-1,US: 30A TV
 http://client.more-itv.com:8080/57ijhg/e46ujj/14002
-#EXTINF:-1,US: 30A Music
+#EXTINF:-1 group-title="MUSIC",US: 30A Music
 http://client.more-itv.com:8080/57ijhg/e46ujj/14003
 #EXTINF:-1,US: Sportsnet 360 HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14005
@@ -912,7 +912,7 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14033
 http://client.more-itv.com:8080/57ijhg/e46ujj/14035
 #EXTINF:-1,US: Boomerang
 http://client.more-itv.com:8080/57ijhg/e46ujj/14049
-#EXTINF:-1,US: Outdoor Channel HD
+#EXTINF:-1group-title="OCEAN",US: Outdoor Channel HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/14058
 #EXTINF:-1 group-title="MUSIC",US: VH1 
 http://client.more-itv.com:8080/57ijhg/e46ujj/14060
@@ -959,33 +959,33 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14109
 #EXTINF:-1,US: CNBC
 http://client.more-itv.com:8080/57ijhg/e46ujj/14123
 
-#EXTINF:-1,US: ET Live
+#EXTINF:-1 group-title="LOCAL",US: ET Live
 http://client.more-itv.com:8080/57ijhg/e46ujj/80548
 #EXTINF:-1,US: People TV HD
 http://client.more-itv.com:8080/57ijhg/e46ujj/80549
-#EXTINF:-1,US: CBSN Boston
+#EXTINF:-1 group-title="LOCAL",US: CBSN Boston
 http://client.more-itv.com:8080/57ijhg/e46ujj/80550
-#EXTINF:-1,US: CBSN New York
+#EXTINF:-1 group-title="LOCAL",US: CBSN New York
 http://client.more-itv.com:8080/57ijhg/e46ujj/80551
-#EXTINF:-1,US: CBSN Philladelphia
+#EXTINF:-1 group-title="LOCAL",US: CBSN Philladelphia
 http://client.more-itv.com:8080/57ijhg/e46ujj/80552
-#EXTINF:-1,US: CBSN Pittsburgh
+#EXTINF:-1 group-title="LOCAL",US: CBSN Pittsburgh
 http://client.more-itv.com:8080/57ijhg/e46ujj/80553
-#EXTINF:-1,US: CBSN Chicago
+#EXTINF:-1 group-title="LOCAL",US: CBSN Chicago
 http://client.more-itv.com:8080/57ijhg/e46ujj/80554
-#EXTINF:-1,US: CBSN Minnesota
+#EXTINF:-1 group-title="LOCAL",US: CBSN Minnesota
 http://client.more-itv.com:8080/57ijhg/e46ujj/80555
-#EXTINF:-1,US: CBSN Dallas-Ft.W.
+#EXTINF:-1 group-title="LOCAL",US: CBSN Dallas-Ft.W.
 http://client.more-itv.com:8080/57ijhg/e46ujj/80556
-#EXTINF:-1,US: CBSN Denver
+#EXTINF:-1 group-title="LOCAL",US: CBSN Denver
 http://client.more-itv.com:8080/57ijhg/e46ujj/80557
-#EXTINF:-1,US: CBSN Los Angeles
+#EXTINF:-1 group-title="LOCAL",US: CBSN Los Angeles
 http://client.more-itv.com:8080/57ijhg/e46ujj/80558
-#EXTINF:-1,US: CBSN Bay Area
+#EXTINF:-1 group-title="LOCAL",US: CBSN Bay Area
 http://client.more-itv.com:8080/57ijhg/e46ujj/80559
-#EXTINF:-1,US: CBSN Live Event
+#EXTINF:-1 group-title="LOCAL",US: CBSN Live Event
 http://client.more-itv.com:8080/57ijhg/e46ujj/80560
-#EXTINF:-1,US: NBC 6 Miami FL (WTVJ)
+#EXTINF:-1 group-title="LOCAL",US: NBC 6 Miami FL (WTVJ)
 http://client.more-itv.com:8080/57ijhg/e46ujj/80585
 
 
