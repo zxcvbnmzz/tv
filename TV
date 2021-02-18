@@ -131,7 +131,61 @@ http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/703.m3u8
 http://bdvisioniptv.ddns.net:25461/live/tonmay23/7252/706.m3u8
 
 
+//frm Flight Iptv
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
+http://45.160.73.129:8000/play/a02h
 
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/animal.jpg" group-title="📺CULTURA📺" tvg-name="",ANIMAL PLANET |HD
+http://45.238.21.106:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
+http://45.170.40.2:8000/play/a03b
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discovery.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY CHANNEL |HD
+http://45.170.40.2:8000/play/a04l
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/id.png" group-title="📺CULTURA📺" tvg-name="",Discovery ID |HD
+http://45.160.73.129:8000/play/a01a
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
+http://45.170.40.2:8000/play/a038
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/discoveryhh.jpg" group-title="📺CULTURA📺" tvg-name="",DISCOVERY H&H SD
+http://45.170.40.2:8000/play/a04m
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/sci.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY SCIENCE |HD
+http://45.170.40.2:8000/play/a023
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/252-2529722_discovery-hd-theater-discovery-channel.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY THEATHER |HD
+http://45.170.40.2:8000/play/a02h
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/DiscoveryWorld.jpg" group-title="📺CULTURA📺" tvg-name="",Discovery World |HD
+http://45.170.40.2:8000/play/a02k
+
+#EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/c5e6bf72241158f09aa30e9c966269a3.png" group-title="📺CULTURA📺" tvg-name="",DISCOVERY TURBO |HD
+http://45.170.40.2:8000/play/a01f
+
+#EXTINF:-1 tvg-logo="https://freepikpsd.com/wp-content/uploads/2019/10/discovery-max-png-5-Transparent-Images.png" group-title="📺CULTURA📺" tvg-name="",Discovery Max
+http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20091112185125" group-title="📺CULTURA📺" tvg-name="",Discovery Civilization
+http://45.170.40.2:8000/play/a022
+
+#EXTINF:-1 tvg-logo="http://xtremesportsplus.myq-see.com:8080/images/3cd15f8f2940aff879df34df4e5c2cd1.jpg" group-title="📺CULTURA📺" tvg-name="",HISTORY |HD
+http://latvonlive.com:33612/Lili/1234/598
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/h2.jpg" group-title="📺CULTURA📺" tvg-name="",H2 SD
+http://45.170.40.2:8000/play/a021
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="📺CULTURA📺" tvg-name="",HGTV HD
+http://45.170.40.2:8000/play/a022
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeo.jpg" group-title="📺CULTURA📺" tvg-name="",NAT GEO |HD
+http://45.170.40.2:8000/play/a056
+
+#EXTINF:-1 tvg-logo="http://topmv.myq-see.com/cover/natgeowild.jpg" group-title="📺CULTURA📺" tvg-name="",NATGEO WILD SD
+http://45.170.40.2:8000/play/a020
+
+#EXTINF:-1 tvg-logo="https://streamingtvguides.com/img/so/NGMUNDO.png" group-title="📺CULTURA📺" tvg-name="",NATGEO MUNDO  |HD
+https://2.bp.blogspot.com/-R7Ep3OZv9iA/Vt4y8bQ9vjI/AAAAAAAAI74/O7jaLhHRzm8/s1600/fuera-de-servicio.jpg
 
 
 
