@@ -1,20 +1,139 @@
 #EXTM3U
 // M3U8 By @zxcvbnm
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_eng",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="eng",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8?token=Zalogi"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audiod",NAME="audio_ind",DEFAULT=NO,AUTOSELECT=YES,CHANNELS="2",LANGUAGE="ind",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/6.m3u8?token=Zalogi"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="ind",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ind",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/13.m3u8?token=Zalogi"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="eng",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="eng",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/16.m3u8?token=Zalogi"
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=480x270,AUDIO="audiod",SUBTITLES="subs"
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8?token=Zalogi
-#EXT-X-STREAM-INF:BANDWIDTH=1147048,AVERAGE-BANDWIDTH=1147048,CODECS="avc1.64001e,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=640x360,AUDIO="audiod",SUBTITLES="subs"
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8?token=Zalogi
-#EXT-X-STREAM-INF:BANDWIDTH=1964424,AVERAGE-BANDWIDTH=1964424,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=960x540,AUDIO="audiod",SUBTITLES="subs"
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8?token=Zalogi
-#EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="subs"
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/4.m3u8?token=Zalogi
+-------------------FOX MOVIES------------------------------------
+|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+#EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES
+#http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd
+#https://nonton.site:8443/novi/novi123/98
+http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 
+|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+|#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+|#EXTINF:-1 tvg-id="FOX Movies HD" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="MOVIES",FOX MOVIES
+|https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
+------------------------------------------------------------------
+
+-------------------HBO------------------------------------
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO" group-title="MOVIES",HBO
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764dad045c59a90d7587d8d671b5f5aec4e7c
+#https://nonton.site:8443/novi/novi123/1496
+#https://nonton.site:8443/novi/novi123/210
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+------------------------------------------------------------------
+
+-------------------HBO HITS------------------------------------
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS" group-title="MOVIES",HBO HITS
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+#http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862cd045c59a90d7587d8d671b5f5aec4e7c
+#https://nonton.site:8443/novi/novi123/11492
+https://nonton.site:8443/novi/novi123/591
+------------------------------------------------------------------
+
+-------------------CINEMAX------------------------------------
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-name="CINEMAX" group-title="MOVIES",CINEMAX
+#http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#http://need.sleep.codaytv.eu/c.m3u8?shinta=See_U&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122cd045c59a90d7587d8d671b5f5aec4e7c
+#https://nonton.site:8443/novi/novi123/30185
+https://nonton.site:8443/novi/novi123/2156
+------------------------------------------------------------------
+
+|#EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="DUNIA SINEMA" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/dunia%20sinema.png" group-title="MOVIES",DUNIA SINEMA
+|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+|http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+
+-------------------TVN MOVIES------------------------------------
+#EXTINF:-1 tvg-id="tvN Movies HD" tvg-name="tvN MOVIES" tvg-logo="https://www.asiantvawards.com/wp-content/uploads/2017/08/tvN-movie-logo-no-tagline.jpg" group-title="MOVIES",tvN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+------------------------------------------------------------------
+
+|#EXTINF:-1 tvg-id="SONY MAX" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/sony%20max.png" group-title="MOVIES",SONY MAX
+|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+|http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
+
+-------------------ZEE CINEMA------------------------------------
+#EXTINF:-1 tvg-id="Zee Cinema" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/zeecinema.png" group-title="MOVIES",ZEE CINEMA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd
+------------------------------------------------------------------
+
+|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+|#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/yuppthirai.png" group-title="MOVIES",YUPP THIRAI
+|http://1.9.58.102/PLTV/88888888/224/3221227762/3221227762.mpd
+
+|#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+|#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4
+|#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/cineplex.png" group-title="MOVIES",CINEPLEX
+|http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd
+
+-------------------ZEE CAFE------------------------------------
+#EXTINF:-1 tvg-id="Zee Cafe HD" tvg-name="Zee Cafe HD" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="MOVIES",Zee Cafe HD
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+------------------------------------------------------------------
+
+|#EXTINF:-1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="MOVIES",Star Movies Select HD
+|http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
+
+-------------------SONY PIX------------------------------------
+#EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="MOVIES",Sony Pix HD
+#http://185.71.64.167:80/307245103371/307245103371/83703?checkedby:hlscat.com
+#http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17287.m3u8?checkedby:hlscat.com
+#http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48142&output=m3u8
+#http://185.246.210.51:2200/R-EX/HINDI_SONY_PIX_HD-in/index.m3u8?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914
+http://tamilcuisine.online/api2/tatasky/tata.php?uid=avinashcs2138_4320155&id=7536907
+------------------------------------------------------------------
+
+
+|#EXTINF:-1 tvg-id="Colors Infinity HD" tvg-name="Colors Infinity HD" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" group-title="MOVIES",Colors Infinity HD
+|https://botallen.live/t/187/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
+
+|#EXTINF:-1 tvg-id="MN+ HD" tvg-name="MN+ HD" tvg-logo="https://assets.botallen.live/images/t/TGQwxcNxIF.png" group-title="MOVIES",MN+ HD
+|http://rv.therevenge.co:80/live/242424/242424/83603.m3u8?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="Movies Now HD" tvg-name="Movies Now HD" tvg-logo="https://assets.botallen.live/images/t/UxDqBXGiUV.png" group-title="MOVIES",Movies Now HD
+http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.0316535914&id=48160&output=m3u8
+#http://185.71.64.167:80/307245103371/307245103371/83604?checkedby:hlscat.com
+
+|#EXTINF:-1 tvg-id="Romedy Now HD" tvg-name="Romedy Now HD" tvg-logo="https://assets.botallen.live/images/t/tDrHWKGrRb.png" group-title="MOVIES",Romedy Now HD
+|https://botallen.live/t/437/master.m3u8?t=301354ae54dd555d55406809da298616aeacce4695df740fe0384ac49bae120a8139ed8e0c85c774aaae39772cdc9a63ae6b507bda505dd3
+
+|#EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
+|http://185.71.64.167:80/307245103371/307245103371/83605?checkedby:hlscat.com
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 01
+http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 02
+http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
+
+-------------------CINEMAX EAST------------------------------------
+#EXTINF:-1 tvg-id="DTV:MAXe:515 Cinemax" tvg-name="Cinemax (East)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (East) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+------------------------------------------------------------------
+
+-------------------CINEMAX WEST------------------------------------
+#EXTINF:-1 tvg-id="DTV:MAXw:516 Cinemax West" tvg-name="Cinemax (West)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (West) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+------------------------------------------------------------------
+
+-------------------EPIX EAST------------------------------------
+#EXTINF:-1 tvg-id="Epix East" tvg-name="Epix (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix (East) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+------------------------------------------------------------------
+
+-------------------EPIX 2 EAST------------------------------------
+#EXTINF:-1 tvg-id="EPIX2HD EPIX 2 HD" tvg-name="Epix 2 (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix 2 (East) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+------------------------------------------------------------------
 #EXTINF:-1 tvg-name="Fox movie" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery
 http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
 
@@ -1049,99 +1168,3 @@ http://client.more-itv.com:8080/57ijhg/e46ujj/14109
 #EXTINF:-1,US: CNBC
 http://client.more-itv.com:8080/57ijhg/e46ujj/14123
 
-#EXTINF:-1 group-title="LOCAL",US: ET Live
-http://client.more-itv.com:8080/57ijhg/e46ujj/80548
-#EXTINF:-1,US: People TV HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/80549
-#EXTINF:-1 group-title="LOCAL",US: CBSN Boston
-http://client.more-itv.com:8080/57ijhg/e46ujj/80550
-#EXTINF:-1 group-title="LOCAL",US: CBSN New York
-http://client.more-itv.com:8080/57ijhg/e46ujj/80551
-#EXTINF:-1 group-title="LOCAL",US: CBSN Philladelphia
-http://client.more-itv.com:8080/57ijhg/e46ujj/80552
-#EXTINF:-1 group-title="LOCAL",US: CBSN Pittsburgh
-http://client.more-itv.com:8080/57ijhg/e46ujj/80553
-#EXTINF:-1 group-title="LOCAL",US: CBSN Chicago
-http://client.more-itv.com:8080/57ijhg/e46ujj/80554
-#EXTINF:-1 group-title="LOCAL",US: CBSN Minnesota
-http://client.more-itv.com:8080/57ijhg/e46ujj/80555
-#EXTINF:-1 group-title="LOCAL",US: CBSN Dallas-Ft.W.
-http://client.more-itv.com:8080/57ijhg/e46ujj/80556
-#EXTINF:-1 group-title="LOCAL",US: CBSN Denver
-http://client.more-itv.com:8080/57ijhg/e46ujj/80557
-#EXTINF:-1 group-title="LOCAL",US: CBSN Los Angeles
-http://client.more-itv.com:8080/57ijhg/e46ujj/80558
-#EXTINF:-1 group-title="LOCAL",US: CBSN Bay Area
-http://client.more-itv.com:8080/57ijhg/e46ujj/80559
-#EXTINF:-1 group-title="LOCAL",US: CBSN Live Event
-http://client.more-itv.com:8080/57ijhg/e46ujj/80560
-#EXTINF:-1 group-title="LOCAL",US: NBC 6 Miami FL (WTVJ)
-http://client.more-itv.com:8080/57ijhg/e46ujj/80585
-
-
-#EXTINF:-1,US: Olympic Channel 1 
-http://client.more-itv.com:8080/57ijhg/e46ujj/13730
-#EXTINF:-1,US: Olympic Channel 2
-http://client.more-itv.com:8080/57ijhg/e46ujj/13733
-#EXTINF:-1,US: Olympic Channel 3 
-http://client.more-itv.com:8080/57ijhg/e46ujj/13735
-#EXTINF:-1,US: Olympic Channel 4 
-http://client.more-itv.com:8080/57ijhg/e46ujj/13738
-#EXTINF:-1,US: Olympic Channel 5
-http://client.more-itv.com:8080/57ijhg/e46ujj/13741
-#EXTINF:-1,US: Fashion TV FHD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13745
-#EXTINF:-1,US: NBC Universo
-http://client.more-itv.com:8080/57ijhg/e46ujj/13746
-#EXTINF:-1,US: Olympic Channel 
-http://client.more-itv.com:8080/57ijhg/e46ujj/13743
-#EXTINF:-1,US: Red Bull TV (UHD)
-http://client.more-itv.com:8080/57ijhg/e46ujj/13744
-#EXTINF:-1,US: NBC Sports Philadelphia HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13747
-#EXTINF:-1,US: NBC Sports Northwest HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13748
-#EXTINF:-1,US: NBC Sports Network HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13749
-#EXTINF:-1,US: NBC Sports Chicago HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13750
-#EXTINF:-1,US: NBC Sports California HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13751
-#EXTINF:-1,US: NBC Sports Boston HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13752
-#EXTINF:-1,US: NBC Sports Bay Area HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/13753
-#EXTINF:-1,US: Willow Cricket HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/59070
-#EXTINF:-1,US: Willow Cricket Extra
-http://client.more-itv.com:8080/57ijhg/e46ujj/59071
-#EXTINF:-1,US: Willow Cricket 02 HD
-http://client.more-itv.com:8080/57ijhg/e46ujj/59072
-#EXTINF:-1,US: CBS Miami
-http://client.more-itv.com:8080/57ijhg/e46ujj/80588
-#EXTINF:-1,US: Fox Miami-WSVN
-http://client.more-itv.com:8080/57ijhg/e46ujj/80589
-
-
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="LOCAL",SEMOGA MASIH JUMPA BULAN DEPAN 🙏
-http://codaytv.eu/coday.ts?48
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="NEWS",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?31
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="CARTOON",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?52
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="SPORT",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?89
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="ENTERTAINMENT",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?17
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="MOVIES",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?13
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="MUSIC",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?75
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="CINEMA",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?36
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="KNOWLEDGE",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?87
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="OCEAN",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?4
-#EXTINF:-1 tvg-logo="http://codaytv.eu/coday.jpg" group-title="xXx",SEMOGA MASIH JUMPA BULAN DEPAN 
-http://codaytv.eu/coday.ts?27
