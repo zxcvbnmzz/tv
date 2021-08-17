@@ -110,33 +110,6 @@ http://t100v.com/play.php?token=RED_q-aNvc70-pJwH7_4RfzgNQ==,1600029686.03165359
 |#EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
 |http://185.71.64.167:80/307245103371/307245103371/83605?checkedby:hlscat.com
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 01
-http://fun6.xyz:8880/HINDI_CINEMA_01/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="HINDI MOVIES", Hindi Cinema 02
-http://fun6.xyz:8880/HINDI_CINEMA_02/index.m3u8
-
--------------------CINEMAX EAST------------------------------------
-#EXTINF:-1 tvg-id="DTV:MAXe:515 Cinemax" tvg-name="Cinemax (East)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (East) (1080p)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-------------------------------------------------------------------
-
--------------------CINEMAX WEST------------------------------------
-#EXTINF:-1 tvg-id="DTV:MAXw:516 Cinemax West" tvg-name="Cinemax (West)" tvg-language="English" tvg-logo="https://www.cinemax.com/images/logos/cinemax-logo-black_filled__02-10-17.svg" group-title="MOVIES",Cinemax (West) (1080p)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-------------------------------------------------------------------
-
--------------------EPIX EAST------------------------------------
-#EXTINF:-1 tvg-id="Epix East" tvg-name="Epix (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix (East) (1080p)
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-------------------------------------------------------------------
-
--------------------EPIX 2 EAST------------------------------------
-#EXTINF:-1 tvg-id="EPIX2HD EPIX 2 HD" tvg-name="Epix 2 (East)" tvg-language="English" tvg-logo="https://content.epix.com/feeds/web/console_logo_primary/_20190305_135251.png" group-title="MOVIES",Epix 2 (East) (1080p)
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-------------------------------------------------------------------
-#EXTINF:-1 tvg-name="Fox movie" tvg-logo="https://toppng.com/uploads/preview/discovery-channel-logo-vector-11574229905pblh5eesph.png" group-title="Informative Channel",Discovery
-http://50.7.161.82:8278/streams/d/Foxmovie/playlist.m3u8
-
 
 -------------------HBO------------------------------------
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO" group-title="MOVIES",HBO
@@ -187,20 +160,6 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
 //indo2021
-#EXTINF:-1  tvg-logo="https://imgur.com/42fcMLt.png" group-title="KNOWLEDGE",FAIL ARMY
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/42fcMLt.png" group-title="KNOWLEDGE",A FUNNY VIDEO
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://imgur.com/42fcMLt.png" group-title="KNOWLEDGE",TBD TV
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", BBC Cbeebies
-http://51.52.156.22:8888/http/003
-
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="KNOWLEDGE", DMAX
-http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE-Mynetqu" tvg-id="AnimalPlanet.id" tvg-name="Animal Planet HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" ,Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
@@ -258,38 +217,4 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
 https://cdn08jtedge.useetv.com/joss/15/natgeo/chunklist_w1438926362_b1344100_sleng.m3u8?enc=mSPyAWzwzKJTQcDa5nTK2A&uid=NTM1YmM3NDBiZWMwODQxOTRlNTBhNjAxNGU4NzZjODY=&exp=1613336292 
 #EXTINF:-1 group-title="KNOWLEDGE-Mynetqu" tvg-logo="https://i.ibb.co/8KqHtTK/Outdoor-Channel.jpg" ,Outdoor [Me-Tv]
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
-
-
-//sport
-#EXTINF:-1, BT Sports 2 HD
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1, Fox Sports 1★
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:-1, Fox Sports 2★
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1, Fox Sports 3★
-https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:-1, Fox Sports 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1, Fox Sports 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1, Fox Sports 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1, Sky-Sports Cricket
-http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/playlist.m3u8
-#EXTINF:-1, Sky-Sports Football
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
-#EXTINF:-1, Sky-Sports Action
-http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
-#EXTINF:-1, Bayern Munich Tv
-http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8?@amarnettv.live
-#EXTINF:-1, Real Madrid Tv
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.live?sd=10&rebase=on
-#EXTINF:-1, Star Sports 1
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
-#EXTINF:-1, Star Sports 2
-http://10.16.100.207:8082/sports/starsports2.m3u8
-#EXTINF:-1, Ten Sports 1
-http://10.16.100.207:8082/sports/ten1_720.m3u8
 
