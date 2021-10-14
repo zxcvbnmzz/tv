@@ -73,10 +73,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8      
 #EXTINF:-1 group-title="KNOWLEDGE-Mynetqu" tvg-logo="https://cloudimages.broadwayworld.com/columnpic11/1250-3197e190bfde1a3f979282be297a7a6c.jpg" ,NAT GEO Wild [Me-Tv]
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
-
-
-
-
 #EXTINF:-1 group-title="KNOWLEDGE-Mynetqu" tvg-logo="https://cloudimages.broadwayworld.com/columnpic11/1250-3197e190bfde1a3f979282be297a7a6c.jpg" ,NAT GEO Wild [Me-Tv]
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="KNOWLEDGE-Mynetqu" tvg-logo="https://i.ibb.co/tzmwLsj/Biznet-Adventure.png" ,Bisnet Adventure 4K [Me-Tv]
@@ -252,8 +248,6 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTHK.HK/picture?width=200&height=200" group-title="Asia",RTHK 31 32 Hong Kong
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos",María Visión Mexico
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 ******************************************* ZUTV *************************************************************
 
