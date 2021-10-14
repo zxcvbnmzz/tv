@@ -44,6 +44,46 @@ http://36.37.252.114:888/Apple/OneTV-040/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="arirang" tvg-logo="http://dusktill.masuk.web.id/img/arirang.png" group-title="FTA",ARIRANG 2
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/magnatv.png" group-title="FTA",Magna TV 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/metrotv.png" group-title="Lokal",METRO TV
+http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="Lokal",TV ONE
+http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",SCTV
+http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="Lokal",INDOSIAR
+http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="Lokal",TRANS TV
+http://210.210.155.35:80/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Lokal",TRANS 7
+http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s101/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="Lokal",ANTV
+http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/denslifestyle.png" group-title="Lokal",DENS Lifestyle
+http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/denslearning.png" group-title="Lokal",DENS Learning Knowlegde
+http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/densshowbiz.png" group-title="Lokal",DENS Showbiz
+http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/dubaisports1.png" group-title="Sports", DUBAI SPORTS 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/dubaisports2.png" group-title="Sports", DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/dubaisports3.png" group-title="Sports", DUBAI SPORTS 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/adsports1.png" group-title="Sports", ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/adsports2.png" group-title="Sports", ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/adsports3.png" group-title="Sports", ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/adsports4.png" group-title="Sports", ABU DHABI SPORTS 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="racing.com" tvg-logo="http://dusktill.masuk.web.id/img/racingcom.png" group-title="Sports",RACING.COM
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+
 #EXTINF:-1 tvg-id="XH.MY" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png" group-title="Astro",TVB Xing He 星河
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
@@ -119,6 +159,10 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8      
 #EXTINF:-1 group-title="KNOWLEDGE-Mynetqu" tvg-logo="https://cloudimages.broadwayworld.com/columnpic11/1250-3197e190bfde1a3f979282be297a7a6c.jpg" ,NAT GEO Wild [Me-Tv]
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
+
+
+
+
 #EXTINF:-1 group-title="KNOWLEDGE-Mynetqu" tvg-logo="https://cloudimages.broadwayworld.com/columnpic11/1250-3197e190bfde1a3f979282be297a7a6c.jpg" ,NAT GEO Wild [Me-Tv]
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="KNOWLEDGE-Mynetqu" tvg-logo="https://i.ibb.co/tzmwLsj/Biznet-Adventure.png" ,Bisnet Adventure 4K [Me-Tv]
@@ -138,6 +182,12 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
 |#EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
 |http://185.71.64.167:80/307245103371/307245103371/83605?checkedby:hlscat.com
+
+#https://nonton.site:8443/novi/novi123/210
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#https://nonton.site:8443/novi/novi123/210
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
 
 
 
@@ -294,6 +344,8 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTHK.HK/picture?width=200&height=200" group-title="Asia",RTHK 31 32 Hong Kong
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mariavision/picture?width=200&height=200" group-title="Religiosos",María Visión Mexico
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 ******************************************* ZUTV *************************************************************
 
