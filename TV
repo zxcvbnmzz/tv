@@ -46,26 +46,31 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 http://36.37.252.114:888/Apple/OneTV-039/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/magnatv.png" group-title="FTA",Magna TV 
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_kamiselaluada_b3884000_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/metrotv.png" group-title="Lokal",METRO TV
+
+
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/metrotv.png" group-title="FTA",METRO TV
 http://210.210.155.35:80/session/ee7383c6-2ece-11eb-a769-b82a72d63267/uq2663/h/h12/01.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="Lokal",TV ONE
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/tvone.png" group-title="FTA",TV ONE
 http://210.210.155.35:80/session/46b1ce9e-2ecf-11eb-a83f-b82a72d63267/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="Lokal",SCTV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/sctv.png" group-title="FTA",SCTV
 http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/01.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="Lokal",INDOSIAR
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title="FTA",INDOSIAR
 http://210.210.155.35:80/session/91daacce-2ecf-11eb-8016-b82a72d63267/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-id="transtv" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="Lokal",TRANS TV
+#EXTINF:-1 tvg-id="transtv" tvg-logo="http://dusktill.masuk.web.id/img/transtv.png" group-title="FTA",TRANS TV
 http://210.210.155.35:80/session/c6016ff6-2ecf-11eb-9242-b82a72d63267/x6bnqe/s/s252/01.m3u8
-#EXTINF:-1 tvg-id="trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Lokal",TRANS 7
+#EXTINF:-1 tvg-id="trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="FTA",TRANS 7
 http://210.210.155.35:80/session/de667460-2ecf-11eb-81ff-b82a72d63267/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="Lokal",ANTV
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/antv.png" group-title="FTA",ANTV
 http://210.210.155.35:80/session/74698288-2ed3-11eb-82e0-c81f66f89318/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/denslifestyle.png" group-title="Lokal",DENS Lifestyle
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/denslifestyle.png" group-title="FTA",DENS Lifestyle
 http://210.210.155.35:80/session/c688c904-2ed6-11eb-9c1c-c81f66f89318/uq2663/h/h28/01.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/denslearning.png" group-title="Lokal",DENS Learning Knowlegde
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/denslearning.png" group-title="FTA",DENS Learning Knowlegde
 http://210.210.155.35:80/session/e1e5a064-2ed6-11eb-a769-b82a72d63267/x6bnqe/s/s36/S4/mnf.m3u8
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/densshowbiz.png" group-title="Lokal",DENS Showbiz
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/densshowbiz.png" group-title="FTA",DENS Showbiz
 http://210.210.155.35:80/session/25b72b82-2ed7-11eb-8e17-b82a72d63267/x6bnqe/s/s35/S4/mnf.m3u8
+
+===========================================================================================================================
+
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/dubaisports1.png" group-title="Sports", DUBAI SPORTS 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/dubaisports2.png" group-title="Sports", DUBAI SPORTS 2
