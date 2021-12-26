@@ -123,11 +123,6 @@ https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master_i
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
 
 
-
-
-
-#https://nonton.site:8443/novi/novi123/210
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 ------------------------------------------------------------------
 
 
@@ -165,13 +160,6 @@ http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
 |#EXTINF:-1 tvg-id="MNX HD" tvg-name="MNX HD" tvg-logo="https://assets.botallen.live/images/t/zmKkSONrMb.png" group-title="MOVIES",MNX HD
 |http://185.71.64.167:80/307245103371/307245103371/83605?checkedby:hlscat.com
-
-#https://nonton.site:8443/novi/novi123/210
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#https://nonton.site:8443/novi/novi123/210
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-
-
 
 
 #EXTINF:-1 group-title="USA",Eurosport HD
